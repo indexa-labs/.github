@@ -9,13 +9,12 @@
 </h1>
 
 <p align="center">
-  <strong lang="es" translate="no">Software que entiende tu negocio</strong><br>
-  Digital products, platforms, and software built around the business and the people who use them
+  <strong lang="es" translate="no">Software que entiende tu negocio</strong>
 </p>
 
 ## About <span translate="no">INDEXA</span>
 
-We design and build digital products of our own and for clients. We connect product decisions, customer experience, and engineering so the systems behind each product can support its use and growth.
+INDEXA designs and builds digital products of its own and for clients. Product decisions, customer experience, and engineering come together so the systems behind each product can support its use and growth.
 
 ## What we build
 
