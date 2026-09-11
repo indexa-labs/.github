@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.indexa.sh">
+  <a href="https://www.indexa.sh" translate="no">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/indexa-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/indexa-light.png">
@@ -9,11 +9,11 @@
 </h1>
 
 <p align="center">
-  <strong lang="es">Software que entiende tu negocio</strong><br>
+  <strong lang="es" translate="no">Software que entiende tu negocio</strong><br>
   Digital products, platforms, and software built around the business and the people who use them
 </p>
 
-## About INDEXA
+## About <span translate="no">INDEXA</span>
 
 We design and build digital products of our own and for clients. We connect product decisions, customer experience, and engineering so the systems behind each product can support its use and growth.
 
@@ -26,12 +26,12 @@ We design and build digital products of our own and for clients. We connect prod
 
 ## Products and experience
 
-- **[Timbro](https://timbro.do)**  
-  An INDEXA product connecting commerce, payments, and electronic invoicing
-- **[Fixcal](https://fixcal.do)**  
-  An electronic invoicing product and implementation developed by INDEXA
-- **[Cuenta Única](https://cuentaunica.gob.do)**  
-  Team experience in product, design, engineering, DevOps, and production for a product owned and operated by OGTIC
+- <strong><a href="https://timbro.do" translate="no">Timbro</a></strong>  
+  An <span translate="no">INDEXA</span> product connecting commerce, payments, and electronic invoicing
+- <strong><a href="https://fixcal.do" translate="no">Fixcal</a></strong>  
+  An electronic invoicing product and implementation developed by <span translate="no">INDEXA</span>
+- <strong><a href="https://cuentaunica.gob.do" translate="no">Cuenta Única</a></strong>  
+  Team experience in product, design, engineering, DevOps, and production for a product owned and operated by <span translate="no">OGTIC</span>
 
 ## Start a conversation
 
