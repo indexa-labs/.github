@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong lang="es" translate="no">Software que entiende tu negocio</strong>
+  <strong>Software that understands your business</strong>
 </p>
 
 ## About <span translate="no">INDEXA</span>
