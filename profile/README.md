@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.indexa.sh" translate="no">
+  <a href="https://indexa.do" translate="no">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/indexa-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/indexa-light.png">
@@ -36,4 +36,4 @@ INDEXA designs and builds digital products of its own and for clients. Product d
 
 Have a product to create, an experience to improve, a platform to integrate, or a system that needs to grow?
 
-[Visit indexa.sh](https://www.indexa.sh) · [Email INDEXA](mailto:hello@indexa.do)
+[Visit indexa.do](https://indexa.do) · [Email INDEXA](mailto:hello@indexa.do)
